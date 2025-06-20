@@ -6,7 +6,7 @@
 🌱 &nbsp;I'm learning more about Python, cloud computing (AWS), and exploring AI & ML projects. \
 ✍️ &nbsp;In my free time, I enjoy reading 📚, designing 🖌️, and learning new tools and trends in tech. \
 💬 &nbsp;Feel free to connect with me for collaboration, projects \
-✉️ &nbsp;You can email me by clicking the Gmail badge below — I’ll reply as soon as possible! \
+✉️ &nbsp;You can email me by clicking the Gmail badge below — I’ll reply as soon as possible! 
 
 
 ---
